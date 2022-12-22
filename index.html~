@@ -69,10 +69,13 @@
 <article class="tentry" role="article">
 	<header>
 		<p class="meta">
-		<time class='entry-date' datetime='2022-12-22T08:44:57+8:00'<span class='date'><span class='date-month'>Dec</span> <span class='date-day'>22</span><span class='date-suffix'>th</span>, <span class='date-year'>2022</span> <span class='time'>8:44 am</span></time>
+		<time class='entry-date' datetime='2022-12-22T08:44:57+8:00'<span class='date'><span class='date-month'>Dec</span> <span class='date-day'>22</span> <span class='date-suffix'>th</span>, <span class='date-year'>2022</span> <span class='time'>8:44 am</span></time>
 
 		</p>
 	</header>
+
+<div class="entry-content">
+<p>I am a developer living in the Philippines. I started blogging using jekyll blog, Blog App and Chrome Extension for my Open Source Contributions.</p>
 
 
 <div class="pagination">
