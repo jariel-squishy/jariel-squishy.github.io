@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>jariel-squishy</title>
+  <title>Archives</title>
   <meta name="author" content="Your Name">
 
   
-  <meta name="description" content=" Blog Archives Recent Posts ">
+  <meta name="description" content=" Blog Archive Recent Posts ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://jariel-squishy.github.io/">
+  <link rel="canonical" href="http://jariel-squishy.github.io/blog/archives/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
@@ -34,10 +34,10 @@
 
 </head>
 
-<body>
+<body   >
   <header role="banner"><hgroup>
   <h1><a href="/">jariel-squishy</a></h1>
-
+  
     <h2>Welcome to my web blog.</h2>
   
 </hgroup>
@@ -58,45 +58,30 @@
 <ul class="main-navigation">
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
-  <li><a href="/about">About</a></li>
 </ul>
 
 </nav>
   <div id="main">
-<div id="content">
-<div class="blog-index">
-
-<article class="tentry" role="article">
-	<header>
-		<p class="meta">
-		<time class='entry-date' datetime='2022-12-22T08:44:57+8:00'<span class='date'><span class='date-month'>Dec</span> <span class='date-day'>22</span><span class='date-suffix'>th</span>, <span class='date-year'>2022</span> <span class='time'>8:44 am</span></time>
-
-		</p>
-	</header>
-
-
-<div class="pagination">
-
-<a href="/blog/archives">Blog Archives</a>
+    <div id="content">
+      <div>
+<article role="article">
+  
+  <header>
+    <h1 class="entry-title">Blog Archive</h1>
     
-  </div>
+  </header>
+  
+  <div id="blog-archives">
+
+</div>
+
+  
+</article>
+
 </div>
 
 <aside class="sidebar">
   
-   <section>
-  <h1>Ariel Fajardo</h1>
-  <p>Full stack developer, love to code and try out new things.</p>
-</section>
-
-    <section>
-  <h2>social links</h2>
-  <p>
-  <a href="https://github.com/fr4nkpackl3b"><img border="0" alt="github" src="/images/github.png" width="50" height="50"></a>
-  <a href="https://codepen.io/fr4nkpackl3b"><img border="0" alt="codepen" src"/images/codepen.png" width="50" height="50"></a>
-  </p>
-    </section>
-
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
@@ -104,23 +89,18 @@
   </ul>
 </section>
 
-<section class="googleplus">
-  <h1>
-    <a href="https://plus.google.com/ariel?rel=author">
-      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
-      Google+
-    </a>
-  </h1>
-</section>
+
+
 
 
   
 </aside>
 
+
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2018 - Ariel Fajardo -
+  Copyright &copy; 2022 - Your Name -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
